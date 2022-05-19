@@ -18,14 +18,14 @@ Here are some ideas to get you started:
 
 
 
-<h2> 👋   Hi there! I'm Fatma Ozdal...:wave: ✨ </h2>
+<h2>    Hi there! I'm Fatma Ozdal... </h2>
 
  <img align="right" alt="GIF" src="https://media.giphy.com/media/WtTnAfZn6aVJfBzlN3/source.gif" width="500" height="320" />
 
 
 
-- 👀  - :telescope: I’m currently working on  Machine Learning, Deep Learning, NLP and Data Analysis (Matplotlib | Seaborn | Pandas's Own Visualization Features | Tableau )
-- 🌱 - :speech_balloon: I am happy to teach you what I know and eager to learn what you will offer
+-  I’m currently working on  Machine Learning, Deep Learning, NLP and Data Analysis (Matplotlib | Seaborn | Pandas's Own Visualization Features | Tableau )
+-  I am happy to teach you what I know and eager to learn what you will offer
 -   Slowly and steadily, I'm trying to be better than yesterday😉
 - 💬  Ask me about: Anything!
 - 📫  How to reach me: 
