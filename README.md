@@ -1,6 +1,6 @@
 
 <!--
-**yildiz3/yildiz3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**fatmaozdal/fatmaozdal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 
-<h2> 👋   Hi there! I'm Hüseyin Yildiz...:wave: ✨ </h2>
+<h2> 👋   Hi there! I'm Fatma Ozdal...:wave: ✨ </h2>
 
  <img align="right" alt="GIF" src="https://media.giphy.com/media/WtTnAfZn6aVJfBzlN3/source.gif" width="500" height="320" />
 
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 [![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://medium.com/@yildiz3/)
 <a href="https://www.kaggle.com/hseyinyildiz"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="Tableau" height="30"> </a>
 <a href="https://www.sololearn.com/profile/25514262"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/SoloLearn_logo.svg/489px-SoloLearn_logo.svg.png?20210710155454" alt="Tableau"  height="25"> </a>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yildiz3" alt="yildiz3" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fatmaozdal" alt="fatmaozdal" /> </p>
 
 
 ## 💻 Data Visualization
@@ -84,10 +84,10 @@ Here are some ideas to get you started:
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Slack_Technologies_Logo.svg/1280px-Slack_Technologies_Logo.svg.png" height="28"/> </a> 
 </p>
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=yildiz3&theme=chartreuse-dark" alt="my github stats" width="49%"/>&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yildiz3&theme=chartreuse-dark" alt="my commit status" width="49%" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yildiz3&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
+<img src="https://github-readme-stats.vercel.app/api?username=fatmaozdal&theme=chartreuse-dark" alt="my github stats" width="49%"/>&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=fatmaozdal&theme=chartreuse-dark" alt="my commit status" width="49%" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatmaozdal&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
 <!---
-**yildiz3/yildiz3** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**fatmaozdal/fatmaozdal** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
