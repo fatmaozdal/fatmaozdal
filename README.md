@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 👀  - :telescope: I’m currently working on  Machine Learning, Deep Learning, NLP and Data Analysis (Matplotlib | Seaborn | Pandas's Own Visualization Features | Tableau )
 - 🌱 - :speech_balloon: I am happy to teach you what I know and eager to learn what you will offer
-- 💞️  Slowly and steadily, I'm trying to be better than yesterday😉
+-   Slowly and steadily, I'm trying to be better than yesterday😉
 - 💬  Ask me about: Anything!
 - 📫  How to reach me: 
 
