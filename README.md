@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 -  I’m currently working on  Machine Learning, Deep Learning, NLP and Data Analysis (Matplotlib | Seaborn | Pandas's Own Visualization Features | Tableau )
 -  I am happy to teach you what I know and eager to learn what you will offer
--   Slowly and steadily, I'm trying to be better than yesterday😉
+-  Slowly and steadily, I'm trying to be better than yesterday😉
 - 💬  Ask me about: Anything!
 - 📫  How to reach me: 
 
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <a href="https://public.tableau.com/"> <img src="https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png" alt="Tableau" height="30"/> </a>
 [![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://medium.com/)
 <a href="https://www.kaggle.com/"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="Tableau" height="30"> </a>
-<a href="https://www.sololearn.com/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/SoloLearn_logo.svg/489px-SoloLearn_logo.svg.png?20210710155454" alt="Tableau"  height="25"> </a>
+<a href="https://www.sololearn.com/profile/25887411"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/SoloLearn_logo.svg/489px-SoloLearn_logo.svg.png?20210710155454" alt="Tableau"  height="25"> </a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatmaozdal" alt="fatmaozdal" /> </p>
 
 
