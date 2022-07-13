@@ -4,14 +4,14 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- I’m currently working on ...
+- I’m currently learning ...
+- I’m looking to collaborate on ...
+- I’m looking for help with ...
+- Ask me about ...
+- How to reach me: ...
+- Pronouns: ...
+- Fun fact: ...
 -->
 
 
@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 
 -  I’m currently working on  Machine Learning, Deep Learning, NLP and Data Analysis (Matplotlib | Seaborn | Pandas's Own Visualization Features | Tableau )
 -  I am happy to teach you what I know and eager to learn what you will offer
--  Slowly and steadily, I'm trying to be better than yesterday😉
-- 💬  Ask me about: Anything!
-- 📫  How to reach me: 
+-  Slowly and steadily, I'm trying to be better than yesterday.
+- Ask me about: Anything!
+- How to reach me: 
 
 ## :man::woman: Social
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatma-%C3%B6zdal-1a633614a/)
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatmaozdal" alt="fatmaozdal" /> </p>
 
 
-## 💻 Data Visualization
+## Data Visualization
 
 <a href="#" target="_blank"> <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="Matplotlib" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="50"/> </a>
@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 </p>
 
 
-## 🧠 Languages
+## Languages
 
 <p>
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/2560px-Python_logo_and_wordmark.svg.png" alt="Python" width="150"/> </a>
